@@ -172,9 +172,9 @@ queue_4 : "‣ <b>Added To Queue At #{0}\n\n ‣ 𝖳𝗂𝗍𝗅𝖾 :</b> {1}\
 queue_5 : "ᴛʜᴇʀᴇ's ᴏɴʟʏ ᴏɴᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋ ɪɴ ᴘʟᴀʏʟɪsᴛ.\n\nᴀᴅᴅ ᴍᴏʀᴇ ᴛʀᴀᴄᴋs ᴛᴏ ᴄʜᴇᴄᴋ ʟɪsᴛ."
 queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛɪᴏɴ sᴛʀᴇᴀᴍ\n\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
-queue_8 : "<b>{0} Player</b>\n\n❄ <b>Streaming :</b> {1}\n\n <b>Stream Type :</b> {2}\n <b>Requested By:</b> {3}\n{4}"
+queue_8 : "<b>{0} Player</b>\n\n❄ <b>Streaming :</b> {1}\n\n <b>Stream Type :</b> {2}\n <b>Requested </b> {3}\n\n<b> • Deployed by  ➛ </b><a href='https://t.me/botscomplex'> ˹ʙᴏᴛs ᴄᴏϻᴘʟєx˼ </a>\n"
 
-stream_1 : "<b>➜ 𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝖲𝗍𝗋𝖾𝖺𝗆𝗂𝗇𝗀 |</b>\n\n<b>‣ 𝖳𝗂𝗍𝗅𝖾 :</b> <a href={0}>{1}</a>\n<b>‣ 𝖣𝗎𝗋𝖺𝗍𝗂𝗈𝗇 :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>‣ 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 :</b> {3}\n\n<b>‣ Made by ‣ </b><a href='https://t.me/Thetiamusicbots'> Ᏼᴏᴛ Ᏻʀᴀᴠᴇʏᴀʀᴅ </a>‌\n"
+stream_1 : "<b>➜ 𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝖲𝗍𝗋𝖾𝖺𝗆𝗂𝗇𝗀 |</b>\n\n<b>‣ 𝖳𝗂𝗍𝗅𝖾 :</b> <a href={0}>{1}</a>\n<b>‣ 𝖣𝗎𝗋𝖺𝗍𝗂𝗈𝗇 :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>‣ 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 :</b> {3}\n\n<b>‣ Made by ‣ </b><a href='https://t.me/ZxBot1'> 𝗭𝘅 𝗕𝗼𝘁𝘀 </a>‌\n"
 stream_2 : "<b>➜ 𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝖲𝗍𝗋𝖾𝖺𝗆𝗂𝗇𝗀 |</b>\n\n<b>Stream Type :</b> Live stream [ᴜʀʟ]\n<b> Requested by :</b> {0}"
 
 
