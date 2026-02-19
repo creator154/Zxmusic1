@@ -109,7 +109,7 @@ SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/p7p32v.jpg"
 
 
 
-dhttps://files.catbox.moe/e8ktxd.jpgef time_to_seconds(time):
+ time_to_seconds(time):
     stringt = str(time)
     return sum(int(x) * 60**i for i, x in enumerate(reversed(stringt.split(":"))))
 
