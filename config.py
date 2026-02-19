@@ -89,15 +89,15 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://files.catbox.moe/0ze52p.jpg",
-                 "https://files.catbox.moe/0ze52p.jpg",
-                 "https://files.catbox.moe/0ze52p.jpg"]
+START_IMG_URL = ["https://files.catbox.moe/e8ktxd.jpg",
+                 "https://files.catbox.moe/e8ktxd.jpg",
+                 "https://files.catbox.moe/e8ktxd.jpg"]
     
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/bs8kwb.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/vfgznw.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/w1vizu.jpg"
+STATS_IMG_URL = ""
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/p7p32v.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/fzl3n3.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/vfgznw.jpg"
@@ -109,7 +109,7 @@ SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/p7p32v.jpg"
 
 
 
-def time_to_seconds(time):
+dhttps://files.catbox.moe/e8ktxd.jpgef time_to_seconds(time):
     stringt = str(time)
     return sum(int(x) * 60**i for i, x in enumerate(reversed(stringt.split(":"))))
 
